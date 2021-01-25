@@ -3,7 +3,7 @@
 ## 2021 Winter. Deep Learning Basics Summary
 
 |       Date         | Topic | Notes |
-|:------------------:|:----------------------------------------:|:----------:|:------:|:-----:
+|:------------------:|:----------------------------------------:|:----------:|
 | 25 January, 2021   | [(cs229) Lecture 2: Linear Regression and Gradient Descent][cs229-lec2]                       | - |
 | 26 January, 2021   | [(cs229) Lecture 3: Weighted Least Squares. Logistic regression. Newton's Method][cs229-lec3] | - |
 | 26 January, 2021   | [(cs229) Lecture 4: Perceptron. Exponential family. Generalized Linear Models][cs229-lec4]    | - |
