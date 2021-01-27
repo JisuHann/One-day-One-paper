@@ -13,23 +13,23 @@
 - Part 6: Graph Convolutional Networks
 - Part 7: Generative Models
 
-|     Date     | Part |                                             Topic                                             | Notes |
-| :----------: | :--: | :-------------------------------------------------------------------------------------------: | :---: |
-| 25 Jan, 2021 |  1   |            [(cs229) Lecture 2: Linear Regression and Gradient Descent][cs229-lec2]            |   -   |
-| 26 Jan, 2021 |  1   | [(cs229) Lecture 3: Weighted Least Squares. Logistic regression. Newton's Method][cs229-lec3] |   -   |
-| 26 Jan, 2021 |  1   |  [(cs229) Lecture 4: Perceptron. Exponential family. Generalized Linear Models][cs229-lec4]   |   -   |
-| 27 Jan, 2021 |  1   |                    [(cs231n) Lecture 2: Image Classification][cs231n-lec2]                    |   -   |
-| 28 Jan, 2021 |  1   |              [(cs231n) Lecture 3: Loss Functions and Optimization][cs231n-lec3]               |   -   |
-| 29 Jan, 2021 |  1   |              [(cs231n) Lecture 4: Introduction to Neural Networks][cs231n-lec4]               |   -   |
-| 30 Jan, 2021 |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   -   |
-| 31 Jan, 2021 |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   -   |
-| 1 Feb, 2021  |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   -   |
-| 2 Feb, 2021  |  3   |                     [(cs231n) Lecture 9: CNN Architectures][cs231n-lec9]                      |   -   |
-| 3 Feb, 2021  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   -   |
-| 4 Feb, 2021  |  4   |                [(cs231n) Lecture 10: Recurrent Neural Networks][cs231n-lec10]                 |   -   |
-| 5 Feb, 2021  |  4   |               [(lecun) Week 12: Deep Learning for NLP & Transformer][lecun-nlp]               |   -   |
-| 6 Feb, 2021  |  5   |                   [(lecun) Week 13: Graph Convolutional Network][lecun-gcn]                   |   -   |
-| 7 Feb, 2021  |  6   |                    [(cs231n) Lecture 13: Generative Models][cs231n-lec13]                     |   -   |
+|  Date  | Part |                                             Topic                                             | Notes | Done |
+| :----: | :--: | :-------------------------------------------------------------------------------------------: | :---: | :--: |
+| 25 Jan |  1   |            [(cs229) Lecture 2: Linear Regression and Gradient Descent][cs229-lec2]            |   -   |  O   |
+| 26 Jan |  1   | [(cs229) Lecture 3: Weighted Least Squares. Logistic regression. Newton's Method][cs229-lec3] |   -   |  O   |
+| 26 Jan |  1   |  [(cs229) Lecture 4: Perceptron. Exponential family. Generalized Linear Models][cs229-lec4]   |   -   |  O   |
+| 27 Jan |  1   |                    [(cs231n) Lecture 2: Image Classification][cs231n-lec2]                    |   -   |  O   |
+| 28 Jan |  1   |              [(cs231n) Lecture 3: Loss Functions and Optimization][cs231n-lec3]               |   -   |  -   |
+| 29 Jan |  1   |              [(cs231n) Lecture 4: Introduction to Neural Networks][cs231n-lec4]               |   -   |  -   |
+| 30 Jan |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   -   |  -   |
+| 31 Jan |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   -   |  -   |
+| 1 Feb  |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   -   |  -   |
+| 2 Feb  |  3   |                     [(cs231n) Lecture 9: CNN Architectures][cs231n-lec9]                      |   -   |  -   |
+| 3 Feb  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   -   |  -   |
+| 4 Feb  |  4   |                [(cs231n) Lecture 10: Recurrent Neural Networks][cs231n-lec10]                 |   -   |  -   |
+| 5 Feb  |  4   |               [(lecun) Week 12: Deep Learning for NLP & Transformer][lecun-nlp]               |   -   |  -   |
+| 6 Feb  |  5   |                   [(lecun) Week 13: Graph Convolutional Network][lecun-gcn]                   |   -   |  -   |
+| 7 Feb  |  6   |                    [(cs231n) Lecture 13: Generative Models][cs231n-lec13]                     |   -   |  -   |
 
 [cs229-lec2]: https://youtu.be/4b4MUYve_U8
 [cs229-lec3]: https://youtu.be/het9HFqo1TQ
