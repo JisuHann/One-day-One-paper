@@ -1,4 +1,4 @@
----
+//Blog URL: https://jisuhan.tistory.com/entry/DeepLearning딥러닝-1탄-Linear-Regression
 
 -   Keyword: Linear Regression, Loss Function, Gradient Descent, Logistic Regression
     
@@ -9,15 +9,13 @@
     [Lecture 3 - Locally Weighted & Logistic Regression | Stanford CS229: Machine Learning (Autumn 2018)](https://youtu.be/het9HFqo1TQ)
     
 
----
-
 ### Before reading...
 
 -   parameters = weight: 구해야 할 값
 -   label: 주어진 특정 x(i)값에 대한 답 y(i)값을 label이라 부릅니다.
 -   classification: 연속된 값을 구하는 regression에 비해, classification은 0(negative class)과 1(positive class) 둘 중 하나를 고르게 됩니다.
 -   Supervised Learning Process  
-    [##_Image|kage@ABhoh/btqUYF0VkBf/2CXTTaCTYExfVZplsmKuyk/img.png|alignCenter|data-origin-width="808" data-origin-height="758" width="189" height="NaN" data-ke-mobilestyle="widthContent"|||_##]
+
 
 ## Linear Regression
 
@@ -30,10 +28,6 @@ Linear Regression에서의 가장 기본적인 구조를 다음과 같다.
 ![](https://render.githubusercontent.com/render/math?math=h_%7B%5Ctheta%7D(x)%20%20%3D%20%5Ctheta_%7B0%7D%2B%5Ctheta_%7B1%7Dx_%7B1%7D%2B...%2B%0A%3D%5Csum_%7Bi%3D1%7D%5Ed%20%5Ctheta_%7Bi%7Dx_%7Bi%7D%20%3D%20%7B%5Ctheta%7D%5ETX)
 
 -   h(x): X,Y의 관계를 정의하는 식 (X에서 d개의 feature가 있다고 가정, x\_i는 각각의 (d개의 feature중 i번째) feature 값들을 나타낸다.
--   Parameters
-
-[##_Image|kage@bf2qsa/btqUTmnNddg/Cik0aZkD9KHf639lLktm2K/img.png|alignCenter|data-origin-width="0" data-origin-height="0" width="222" height="NaN" data-ke-mobilestyle="widthContent"|||_##]
-
 즉, **구해야 할 것은 Parameter 인 theta**이다. 완벽한 theta를 구하기 위해
 
 Parameter에 임의로 값을 넣고 → 차이를 확인하고 → 임의값을 수정: 정확한 Parameter로 가는 길
@@ -67,8 +61,7 @@ Parameter를 재정의하기 위해 전에 있던 값을 바탕으로 adjust/upd
 (조정 값: alpha)은 임의로 정하여 변동의 가능성이 있고, (손실함수의 기울기)는 급격히 변해야함/조금씩 변해야함을 가르키는 값으로 필자는 해석하였다.
 
 여기서 손실함수의 기울기를 더 자세히 살펴보자.
-
-[##_Image|kage@rmV4q/btqUMavlC3P/EC15WswDRErwk2IKKfgrM0/img.png|alignCenter|data-origin-width="882" data-origin-height="448" width="474" height="NaN" data-ke-mobilestyle="widthContent"|||_##]
+![https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrmV4q%2FbtqUMavlC3P%2FEC15WswDRErwk2IKKfgrM0%2Fimg.png](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrmV4q%2FbtqUMavlC3P%2FEC15WswDRErwk2IKKfgrM0%2Fimg.png)
 
 이렇게 정리된다면, 위의 Gradient Descent는 다음과 같이 정의된다.
 
@@ -96,9 +89,7 @@ Mini-Batch로 작동하는 것과 Batch 자체로 작동하는 건 큰 차이가
 -   GD: Batch를 기준으로 되므로, 덜 헤매다 찾겠지만, 계산량이 많은게 문제다.
 
 다음 그림으로 쉽게 이해할 수 있다.
-
-[##_Image|kage@B3QKy/btqUOBlIuuA/M4ecDJ4JkcO1jt2RuzBo60/img.png|alignCenter|data-origin-width="0" data-origin-height="0" width="358" height="NaN" data-ke-mobilestyle="widthContent"|||_##]
-
+![https://t1.daumcdn.net/cfile/tistory/9961913359D86B9833](https://t1.daumcdn.net/cfile/tistory/9961913359D86B9833)
 출처: [https://seamless.tistory.com/38](https://seamless.tistory.com/38)
 
 ### Additional: How to get theta?
