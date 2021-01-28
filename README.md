@@ -5,7 +5,9 @@
 : 210125-210207
 **Focus**: Each Model Code Implementation, Math Demonstrations
 
-- Part 1: Basics of Machine Learning
+- Part 0: Before Starting
+  - Distributions
+- Part 1: Basics of Deep Learning
 - Part 2: Deepening Neural Networks
 - Part 3: Convolutional Neural Networks
 - Part 4: Recurrent Neural Networks
@@ -19,11 +21,11 @@
 | 26 Jan |  1   | [(cs229) Lecture 3: Weighted Least Squares. Logistic regression. Newton's Method][cs229-lec3] |   -   |  O   |
 | 26 Jan |  1   |  [(cs229) Lecture 4: Perceptron. Exponential family. Generalized Linear Models][cs229-lec4]   |   -   |  O   |
 | 27 Jan |  1   |                    [(cs231n) Lecture 2: Image Classification][cs231n-lec2]                    |   -   |  O   |
-| 28 Jan |  1   |              [(cs231n) Lecture 3: Loss Functions and Optimization][cs231n-lec3]               |   -   |  -   |
-| 29 Jan |  1   |              [(cs231n) Lecture 4: Introduction to Neural Networks][cs231n-lec4]               |   -   |  -   |
-| 30 Jan |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   -   |  -   |
-| 31 Jan |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   -   |  -   |
-| 1 Feb  |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   -   |  -   |
+| 28 Jan |  1   |              [(cs231n) Lecture 3: Loss Functions and Optimization][cs231n-lec3]               |   -   |  O   |
+| 29 Jan |  1   |              [(cs231n) Lecture 4: Introduction to Neural Networks][cs231n-lec4]               |   -   |  O   |
+| 30 Jan |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   -   |  -   |
+| 31 Jan |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   -   |  -   |
+| 1 Feb  |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   -   |  -   |
 | 2 Feb  |  3   |                     [(cs231n) Lecture 9: CNN Architectures][cs231n-lec9]                      |   -   |  -   |
 | 3 Feb  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   -   |  -   |
 | 4 Feb  |  4   |                [(cs231n) Lecture 10: Recurrent Neural Networks][cs231n-lec10]                 |   -   |  -   |
