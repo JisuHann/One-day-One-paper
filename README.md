@@ -17,17 +17,17 @@
 
 |  Date  | Part |                                             Topic                                             | Notes | Done |
 | :----: | :--: | :-------------------------------------------------------------------------------------------: | :---: | :--: |
-| 25 Jan |  1   |            [(cs229) Lecture 2: Linear Regression and Gradient Descent][cs229-lec2]            |   -   |  O   |
-| 26 Jan |  1   | [(cs229) Lecture 3: Weighted Least Squares. Logistic regression. Newton's Method][cs229-lec3] |   -   |  O   |
-| 26 Jan |  1   |  [(cs229) Lecture 4: Perceptron. Exponential family. Generalized Linear Models][cs229-lec4]   |   -   |  O   |
-| 27 Jan |  1   |                    [(cs231n) Lecture 2: Image Classification][cs231n-lec2]                    |   -   |  O   |
-| 28 Jan |  1   |              [(cs231n) Lecture 3: Loss Functions and Optimization][cs231n-lec3]               |   -   |  O   |
-| 29 Jan |  1   |              [(cs231n) Lecture 4: Introduction to Neural Networks][cs231n-lec4]               |   -   |  O   |
-| 30 Jan |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   -   |  O   |
-| 31 Jan |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   -   |  X   |
-| 1 Feb  |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   -   |  O   |
-| 2 Feb  |  3   |                     [(cs231n) Lecture 9: CNN Architectures][cs231n-lec9]                      |   -   |  O   |
-| 3 Feb  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   -   |  -   |
+| 25 Jan |  1   |            [(cs229) Lecture 2: Linear Regression and Gradient Descent][cs229-lec2]            |   O   |  O   |
+| 26 Jan |  1   | [(cs229) Lecture 3: Weighted Least Squares. Logistic regression. Newton's Method][cs229-lec3] |   O   |  O   |
+| 26 Jan |  1   |  [(cs229) Lecture 4: Perceptron. Exponential family. Generalized Linear Models][cs229-lec4]   |   O   |  O   |
+| 27 Jan |  1   |                    [(cs231n) Lecture 2: Image Classification][cs231n-lec2]                    |   O   |  O   |
+| 28 Jan |  1   |              [(cs231n) Lecture 3: Loss Functions and Optimization][cs231n-lec3]               |   O   |  O   |
+| 29 Jan |  1   |              [(cs231n) Lecture 4: Introduction to Neural Networks][cs231n-lec4]               |   O   |  O   |
+| 30 Jan |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   X   |  O   |
+| 31 Jan |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   X   |  X   |
+| 1 Feb  |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   O   |  O   |
+| 2 Feb  |  3   |                     [(cs231n) Lecture 9: CNN Architectures][cs231n-lec9]                      |   O   |  O   |
+| 3 Feb  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   X   |  O   |
 | 4 Feb  |  4   |                [(cs231n) Lecture 10: Recurrent Neural Networks][cs231n-lec10]                 |   -   |  -   |
 | 5 Feb  |  4   |               [(lecun) Week 12: Deep Learning for NLP & Transformer][lecun-nlp]               |   -   |  -   |
 | 6 Feb  |  5   |                   [(lecun) Week 13: Graph Convolutional Network][lecun-gcn]                   |   -   |  -   |
