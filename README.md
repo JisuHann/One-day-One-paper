@@ -23,10 +23,10 @@
 | 27 Jan |  1   |                    [(cs231n) Lecture 2: Image Classification][cs231n-lec2]                    |   -   |  O   |
 | 28 Jan |  1   |              [(cs231n) Lecture 3: Loss Functions and Optimization][cs231n-lec3]               |   -   |  O   |
 | 29 Jan |  1   |              [(cs231n) Lecture 4: Introduction to Neural Networks][cs231n-lec4]               |   -   |  O   |
-| 30 Jan |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   -   |  -   |
-| 31 Jan |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   -   |  -   |
-| 1 Feb  |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   -   |  -   |
-| 2 Feb  |  3   |                     [(cs231n) Lecture 9: CNN Architectures][cs231n-lec9]                      |   -   |  -   |
+| 30 Jan |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   -   |  O   |
+| 31 Jan |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   -   |  X   |
+| 1 Feb  |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   -   |  O   |
+| 2 Feb  |  3   |                     [(cs231n) Lecture 9: CNN Architectures][cs231n-lec9]                      |   -   |  O   |
 | 3 Feb  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   -   |  -   |
 | 4 Feb  |  4   |                [(cs231n) Lecture 10: Recurrent Neural Networks][cs231n-lec10]                 |   -   |  -   |
 | 5 Feb  |  4   |               [(lecun) Week 12: Deep Learning for NLP & Transformer][lecun-nlp]               |   -   |  -   |
