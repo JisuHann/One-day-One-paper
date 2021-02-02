@@ -3,7 +3,8 @@
 ### 2021 Spring. Deep Learning Basics Summary
 
 : 210125-210207
-**Focus**: Each Model Code Implementation, Math Demonstrations
+**Focus**: Each Model Code Implementation, Math Demonstrations  
+Part 2,5,6,7 Not Done!
 
 - Part 0: Before Starting
   - Distributions
@@ -28,8 +29,8 @@
 | 1 Feb  |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   O   |  O   |
 | 2 Feb  |  3   |                     [(cs231n) Lecture 9: CNN Architectures][cs231n-lec9]                      |   O   |  O   |
 | 3 Feb  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   X   |  O   |
-| 4 Feb  |  4   |                [(cs231n) Lecture 10: Recurrent Neural Networks][cs231n-lec10]                 |   -   |  -   |
-| 5 Feb  |  4   |               [(lecun) Week 12: Deep Learning for NLP & Transformer][lecun-nlp]               |   -   |  -   |
+| 4 Feb  |  4   |                [(cs231n) Lecture 10: Recurrent Neural Networks][cs231n-lec10]                 |   O   |  O   |
+| 5 Feb  |  4   |               [(lecun) Week 12: Deep Learning for NLP & Transformer][lecun-nlp]               |   O   |  O   |
 | 6 Feb  |  5   |                   [(lecun) Week 13: Graph Convolutional Network][lecun-gcn]                   |   -   |  -   |
 | 7 Feb  |  6   |                    [(cs231n) Lecture 13: Generative Models][cs231n-lec13]                     |   -   |  -   |
 
