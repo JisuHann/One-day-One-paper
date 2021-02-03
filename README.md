@@ -4,7 +4,7 @@
 
 : 210125-210207  
 **Focus**: Each Model Code Implementation, Math Demonstrations  
-**Part 2,5,6,7,8,9** Not Done!
+**Part 2,5,7,8,9** Not Done!
 
 - Part 0: Before Starting
   - Distributions
@@ -14,9 +14,8 @@
 - Part 4: Recurrent Neural Networks
 - Part 5: Self-Supervised Learning
 - Part 6: Graph Convolutional Networks
-- Part 7: Generative Models
-- Part 8: AutoEncoder
-- Part 9: Reinforcement Learning
+- Part 7: Generative Models(GAN, AutoEncoder)
+- Part 8: Reinforcement Learning
 
 |  Date  | Part |                                             Topic                                             | Notes | Done |
 | :----: | :--: | :-------------------------------------------------------------------------------------------: | :---: | :--: |
@@ -33,11 +32,11 @@
 | 3 Feb  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   X   |  O   |
 | 4 Feb  |  4   |                [(cs231n) Lecture 10: Recurrent Neural Networks][cs231n-lec10]                 |   O   |  O   |
 | 5 Feb  |  4   |               [(lecun) Week 12: Deep Learning for NLP & Transformer][lecun-nlp]               |   O   |  O   |
-| 6 Feb  |  6   |                   [(lecun) Week 13: Graph Convolutional Network][lecun-gcn]                   |   -   |  -   |
+| 6 Feb  |  6   |                   [(lecun) Week 13: Graph Convolutional Network][lecun-gcn]                   |   O   |  O   |
 | 7 Feb  |  7   |                    [(cs231n) Lecture 13: Generative Models][cs231n-lec13]                     |   -   |  -   |
-| 8 Feb  |  8   |            [(lecun) Lecture 7: Under- and over-complete autoencoders][lecun-lec7]             |   -   |  -   |
-| 9 Feb  |  8   |                   [(lecun) Lecture 8: Variational autoencoders][lecun-lec8]                   |   -   |  -   |
-| 10 Feb |  9   |                 [(cs231n) Lecture 14: Deep Reinforcement Learning][cs231n-rl]                 |   -   |  -   |
+| 8 Feb  |  7   |            [(lecun) Lecture 7: Under- and over-complete autoencoders][lecun-lec7]             |   -   |  -   |
+| 9 Feb  |  7   |                   [(lecun) Lecture 8: Variational autoencoders][lecun-lec8]                   |   -   |  -   |
+| 10 Feb |  8   |               [(cs231n) Lecture 14: Deep Reinforcement Learning][cs231n-lec14]                |   -   |  -   |
 
 [cs229-lec2]: https://youtu.be/4b4MUYve_U8
 [cs229-lec3]: https://youtu.be/het9HFqo1TQ
