@@ -4,7 +4,7 @@
 
 : 210125-210207  
 **Focus**: Each Model Code Implementation, Math Demonstrations  
-**Part 2,5,8** Not Done!
+**Part 2,5** Not Done!
 
 - Part 0: Before Starting
   - Distributions
@@ -25,6 +25,9 @@
   - Generative Adversarial Networks(GANs)
     - CycleGAN, DCGAN
 - Part 8: Reinforcement Learning
+  - Reinforcement Learning
+    - DQN
+    - Policy Gradient
 
 |  Date  | Part |                                             Topic                                             | Notes | Done |
 | :----: | :--: | :-------------------------------------------------------------------------------------------: | :---: | :--: |
@@ -46,7 +49,7 @@
 | 7 Feb  |  7   |                  [(6.S191) Lecture 4: Deep Generative Modeling][6s191-lec4]                   |   O   |  O   |
 | 8 Feb  |  7   |            [(lecun) Lecture 7: Under- and over-complete autoencoders][lecun-lec7]             |   O   |  O   |
 | 9 Feb  |  7   |                   [(lecun) Lecture 8: Variational autoencoders][lecun-lec8]                   |   O   |  O   |
-| 10 Feb |  8   |                 [(6.S191) Lecture 5: Deep Reinforcement Learning][6s191-lec5]                 |   -   |  -   |
+| 10 Feb |  8   |                 [(6.S191) Lecture 5: Deep Reinforcement Learning][6s191-lec5]                 |   O   |  O   |
 
 [cs229-lec2]: https://youtu.be/4b4MUYve_U8
 [cs229-lec3]: https://youtu.be/het9HFqo1TQ
