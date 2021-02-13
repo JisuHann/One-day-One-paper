@@ -2,6 +2,10 @@
 
 ## Reinforcement Learning Intermediate
 
+Lectures that I skipped
+
+- chapter 3(4),(5) Dynamic Programming: 이론 중심이라 일단은 패쓰하고 필요할 때 돌아올 예정
+
 |  Date  |                              Notes                               | Done | Note |
 | :----: | :--------------------------------------------------------------: | :--: | :--: |
 | 8 Feb  |          [(cs224) Lecture 1: Introduction][cs224-lec1]           |  X   |  X   |

@@ -3,8 +3,7 @@
 ### 2021 Spring. Deep Learning Basics Summary
 
 : 210125-210210  
-**Focus**: Each Model Code Implementation, Math Demonstrations  
-**Part 2,5** Not Done!
+**Focus**: Each Model Code Implementation, Math Demonstrations
 
 - Part 0: Before Starting
   - Distributions
@@ -18,6 +17,9 @@
   - Attention
   - Transformer <<<<다시 해야함!
 - Part 5: Self-Supervised Learning
+  - Pre-text task
+  - Contrastive Learning
+  - Bootstrapping, Cluster
 - Part 6: Graph Convolutional Networks
 - Part 7: Generative Models <<<코드 연습 필요
   - AutoEncoder
@@ -37,11 +39,11 @@
 | 27 Jan |  1   |                    [(cs231n) Lecture 2: Image Classification][cs231n-lec2]                    |   O   |  O   |
 | 28 Jan |  1   |              [(cs231n) Lecture 3: Loss Functions and Optimization][cs231n-lec3]               |   O   |  O   |
 | 29 Jan |  1   |              [(cs231n) Lecture 4: Introduction to Neural Networks][cs231n-lec4]               |   O   |  O   |
-| 30 Jan |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   X   |  O   |
-| 31 Jan |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   X   |  X   |
+| 30 Jan |  2   |              [(cs231n) Lecture 6: Training Neural Networks, part 1][cs231n-lec6]              |   O   |  O   |
+| 31 Jan |  2   |              [(cs231n) Lecture 7: Training Neural Networks, part 2][cs231n-lec7]              |   O   |  O   |
 | 1 Feb  |  3   |               [(cs231n) Lecture 5: Convolutional Neural Networks][cs231n-lec5]                |   O   |  O   |
 | 2 Feb  |  3   |                     [(cs231n) Lecture 9: CNN Architectures][cs231n-lec9]                      |   O   |  O   |
-| 3 Feb  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   X   |  O   |
+| 3 Feb  |  5   |                     [(lecun) Week10: Self-Supervised Learning][lecun-ssl]                     |   O   |  O   |
 | 4 Feb  |  4   |                [(cs231n) Lecture 10: Recurrent Neural Networks][cs231n-lec10]                 |   O   |  O   |
 | 5 Feb  |  4   |               [(lecun) Week 12: Deep Learning for NLP & Transformer][lecun-nlp]               |   O   |  O   |
 | 6 Feb  |  6   |                   [(lecun) Week 13: Graph Convolutional Network][lecun-gcn]                   |   O   |  O   |
