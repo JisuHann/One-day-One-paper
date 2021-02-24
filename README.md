@@ -4,15 +4,18 @@
       : Real Basics of Whole Deep Learning Networks
 - [x] CNN
   - AlexNet, ResNet, VGGNet, GoogLeNet, MobileNet
+    - Skip Connection
   - YOLO, SSD
   - R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN
-  - FPN(Feature Pyramid Net)
+    - FPN(Feature Pyramid Net)
+    - Selective Search, RPN(Region Proposal Network)
+    - RoI Pooling, RoI Align
 - [ ] RNN
   - [ ] Attention
   - [ ] Transformer
   - [ ] BERT
   - [ ] GPT
-- [ ] Self-Supervised Learning
+- [x] Self-Supervised Learning
 - [ ] Generative Models (Code Practice!)
   - [ ] AutoEncoder
     - [ ] VAE
