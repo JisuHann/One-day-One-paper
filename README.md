@@ -11,12 +11,10 @@
     - Selective Search, RPN(Region Proposal Network)
     - RoI Pooling, RoI Align
 - [ ] RNN
-  - [ ] Attention
-  - [ ] Transformer
-  - [ ] BERT
-  - [ ] GPT
+  - [x] Attention, Transformer
+  - [ ] BERT, GPT (내용 보충 필요)
 - [x] Self-Supervised Learning
-- [ ] Generative Models (Code Practice!)
+- [ ] Generative Models (코드 구현 연습 필요)
   - [ ] AutoEncoder
     - [ ] VAE
   - [ ] GAN
