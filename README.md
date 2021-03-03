@@ -1,7 +1,8 @@
 ## Deep Learning Points
+Now: working on code implementation of Reinforcement Learning
 
-- [x] Basics
-      : Real Basics of Whole Deep Learning Networks
+### Theory Concept
+- [x] Real Basics of Whole Deep Learning Networks
 - [x] CNN
   - AlexNet, ResNet, VGGNet, GoogLeNet, MobileNet
     - Skip Connection
@@ -26,3 +27,6 @@
   - Value Function Approximation: Linear Value Function Approximation, Neural Network(DQN), Batch Reinforcement Learning
   - REINFORCE, Policy Gradient, Actor Critic
 - [ ] Meta Learning
+
+### Code Implementation(Pytorch)
+- [ ] Reinforcement Learning
