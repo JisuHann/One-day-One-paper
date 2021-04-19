@@ -1,6 +1,11 @@
 ## Deep Learning Points
 Now: working on code implementation of Reinforcement Learning
 
+### 논문 읽기
+- 210408: Mask R-CNN
+- 210415: MAML
+- 210422: Everybody Dance Now (GAN)
+
 ### Theory Concept
 - [x] Real Basics of Whole Deep Learning Networks
 - [x] CNN
