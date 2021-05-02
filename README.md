@@ -6,6 +6,7 @@ Now: working on code implementation of Reinforcement Learning
 - 210415: MAML
 - 210422: Everybody Dance Now (GAN)
 - 210429: StyleGAN
+- 210506: Variational Autoencoders for Collaborative Filtering
 
 ### Theory Concept
 - [x] Real Basics of Whole Deep Learning Networks
