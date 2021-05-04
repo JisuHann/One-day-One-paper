@@ -6,7 +6,7 @@ Now: working on code implementation of Reinforcement Learning
 - 210415: MAML
 - 210422: Everybody Dance Now (GAN)
 - 210429: StyleGAN
-- 210506: Variational Autoencoders for Collaborative Filtering
+- 210506: Variational Autoencoders for Collaborative Filtering, Objectron
 
 ### Theory Concept
 - [x] Real Basics of Whole Deep Learning Networks
@@ -23,9 +23,10 @@ Now: working on code implementation of Reinforcement Learning
   - [ ] BERT, GPT (내용 보충 필요)
 - [x] Self-Supervised Learning
 - [ ] Generative Models (코드 구현 연습 필요)
-  - [ ] AutoEncoder
-    - [ ] VAE
-  - [ ] GAN
+  - [x] AutoEncoder
+    - [x] VAE
+  - [x] GAN
+    - [x] StyleGAN
 - [x] Reinforcement Learning
   - Markov Property, Markov Decision Process, Markov Reward Process
   - Dynamic Programming: Bellman Equation, Policy Iteration, Value Iteration
@@ -36,4 +37,3 @@ Now: working on code implementation of Reinforcement Learning
 - [ ] Meta Learning
 
 ### Code Implementation(Pytorch)
-- [ ] Reinforcement Learning
