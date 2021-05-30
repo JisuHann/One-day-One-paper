@@ -1,10 +1,9 @@
 ## Deep Learning Points
-Now: working on code implementation of Reinforcement Learning
 
 ### 논문 읽기
 - 210408: Mask R-CNN + R-CNN 정리 [pdf](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/R-CNN정리.pdf)
 - 210415: MAML
-- 210422: Everybody Dance Now (GAN)
+- 210422: Everybody Dance Now (GAN) [md](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/Everybody_Dance_Now.md)
 - 210429: StyleGAN [md](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/StyleGAN.md)
 - 210506: Variational Autoencoders for Collaborative Filtering
 - 210506: Objectron: A Large Scale Dataset of Object-Centric Videos in the wild with pose annotations [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/2)
@@ -16,15 +15,15 @@ Now: working on code implementation of Reinforcement Learning
 - CNN: Object Detection/Semantic Segmentation/Instance Segmentation
   - AlexNet, ResNet, VGGNet, GoogLeNet, MobileNet
         - Skip Connection
-  - YOLO, SSD
-  - [x] R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN
-        - [x] FPN(Feature Pyramid Net)
-        - [x] Selective Search, RPN(Region Proposal Network)
-        - [x] RoI Pooling, RoI Align
-  - Transformer & Vision
-        - [x] ViT: Transformer & Vision [pdf](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/R-CNN정리.pdf)
-  - 3D Object Detection
-        - [x] Objectron [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/2)
+  - YOLO, SSD 
+  - R-CNN, Fast R-CNN, Faster R-CNN, Mask R-CNN  [전체 정리](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/R-CNN정리.pdf)     
+        - FPN(Feature Pyramid Net)   
+        - Selective Search, RPN(Region Proposal Network)   
+        - RoI Pooling, RoI Align   
+  - Transformer & Vision   
+        - ViT: Transformer & Vision [pdf](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/R-CNN정리.pdf)
+  - 3D Object Detection   
+        - Objectron [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/2)
 - NLP
   - [x] Attention, Transformer
   - [ ] BERT, GPT (내용 보충 필요) [정리](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/2.%20Attention%2C%20Transformer%2C%20BERT%2C%20GPT.pdf)
@@ -33,10 +32,10 @@ Now: working on code implementation of Reinforcement Learning
   - [ ] DALL-E: Zero-Shot Text-to-Image Generation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/5)
 - Self-Supervised Learning
 - Generative Models (코드 구현 연습 필요)
-  - [x] AutoEncoder
-        - [x] VAE
-  - [x] GAN
-        - [x] StyleGAN
+  - [x] AutoEncoder   
+        - VAE
+  - [x] GAN   
+        - StyleGAN
 - [x] Reinforcement Learning
   - Markov Property, Markov Decision Process, Markov Reward Process
   - Dynamic Programming: Bellman Equation, Policy Iteration, Value Iteration
