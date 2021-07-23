@@ -9,6 +9,7 @@
 - 210506: Objectron: A Large Scale Dataset of Object-Centric Videos in the wild with pose annotations [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/2)
 - 210527: ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [pdf](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/R-CNN정리.pdf)
 - 210603: DALL-E: Zero-Shot Text-to-Image Generation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/5)
+- 210729: Adversarially Adaptive Normalization for Single Domain Generalization (Google Research, CVPR-2021, Vision 분야) 
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
