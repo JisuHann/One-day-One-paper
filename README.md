@@ -11,6 +11,7 @@
 - 210603: DALL-E: Zero-Shot Text-to-Image Generation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/5)
 - 210729: Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation (Huawei, CVPR-2021, Vision - Semantic Segmentation) [정리](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/Multi_source_unsupervised_domain_adaptation.md)
 - 210730: Incremental Few-Shot Instance Segmentation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/11)
+- 210803: BOP Challenge 2020 on 6D Object Localization [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/12)
 - 210805: MLP-Mixer: An all-MLP Architecture for Vision [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/6)
 
 ### Theory Concept
