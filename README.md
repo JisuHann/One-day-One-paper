@@ -13,6 +13,7 @@
 - 210730: Incremental Few-Shot Instance Segmentation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/11)
 - 210803: BOP Challenge 2020 on 6D Object Localization [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/12)
 - 210805: MLP-Mixer: An all-MLP Architecture for Vision [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/6)
+- 210812: Multimodal Transformer for Unaligned Multimodal Language Sequences [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/13)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
