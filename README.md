@@ -11,8 +11,9 @@
 - 210603: DALL-E: Zero-Shot Text-to-Image Generation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/5)
 - 210729: Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation [정리](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/Multi_source_unsupervised_domain_adaptation.md)
 - 210730: Incremental Few-Shot Instance Segmentation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/11)
-- 210803: BOP Challenge 2020 on 6D Object Localization [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/12)
-- 210805: MLP-Mixer: An all-MLP Architecture for Vision [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/6)
+- 210803: BOP Challenge 2020 on 6D Object Localization [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/12)
+- 210805: MLP-Mixer: An all-MLP Architecture for Vision [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/6)
+- 210811: Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/14)
 - 210812: Multimodal Transformer for Unaligned Multimodal Language Sequences [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/13)
 
 ### Theory Concept
