@@ -33,9 +33,9 @@
 - NLP
   - [x] Attention
   - [ ] Transformer
-  - [ ] BERT
-         - [ ] VideoBERT [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/4)
-         - [ ] ALBERT: A Lite BERT for self-supervised Learning of Language Representation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/8)
+  - [ ] BERT     
+      - [ ] VideoBERT [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/4)
+      - [ ] ALBERT: A Lite BERT for self-supervised Learning of Language Representation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/8)
   - [ ] GPT (내용 보충 필요) [정리](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/2.%20Attention%2C%20Transformer%2C%20BERT%2C%20GPT.pdf)
 - Multi-Modal
   - [ ] DALL-E: Zero-Shot Text-to-Image Generation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/5)
