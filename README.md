@@ -15,6 +15,7 @@
 - 210805: MLP-Mixer: An all-MLP Architecture for Vision [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/6)
 - 210811: Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/14)
 - 210812: Multimodal Transformer for Unaligned Multimodal Language Sequences [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/13)
+- 210813: What Uncertainties Do We Need in Bayesian Deep Learning for Computer Vision? [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/18)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
