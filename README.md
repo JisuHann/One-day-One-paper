@@ -16,6 +16,7 @@
 - 210811: Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/14)
 - 210812: Multimodal Transformer for Unaligned Multimodal Language Sequences [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/13)
 - 210813: A Survey of Uncertainty in Deep Neural Networks [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/18)
+- 210815: Uncertainty in Computer Vision(Papers) [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/19)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
