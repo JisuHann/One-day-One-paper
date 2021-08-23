@@ -1,22 +1,23 @@
 ## Deep Learning Points
 
 ### 논문 읽기
-- 210408: Mask R-CNN + R-CNN 정리 [pdf](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/R-CNN정리.pdf)
+- 210408: Mask R-CNN + R-CNN 정리 [pdf](https://github.com/JisuHann/One-day-One-paper/blob/main/R-CNN정리.pdf)
 - 210415: MAML
-- 210422: Everybody Dance Now (GAN) [md](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/Everybody_Dance_Now.md)
-- 210429: StyleGAN [md](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/StyleGAN.md)
+- 210422: Everybody Dance Now (GAN) [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Everybody_Dance_Now.md)
+- 210429: StyleGAN [md](https://github.com/JisuHann/One-day-One-paper/blob/main/StyleGAN.md)
 - 210506: Variational Autoencoders for Collaborative Filtering
-- 210506: Objectron: A Large Scale Dataset of Object-Centric Videos in the wild with pose annotations [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/2)
-- 210527: ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [pdf](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/R-CNN정리.pdf)
-- 210603: DALL-E: Zero-Shot Text-to-Image Generation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/5)
-- 210729: Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation [정리](https://github.com/JisuHann/Deep-Learning-Repo/blob/main/Multi_source_unsupervised_domain_adaptation.md)
-- 210730: Incremental Few-Shot Instance Segmentation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/11)
-- 210803: BOP Challenge 2020 on 6D Object Localization [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/12)
-- 210805: MLP-Mixer: An all-MLP Architecture for Vision [closed issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/6)
-- 210811: Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/14)
-- 210812: Multimodal Transformer for Unaligned Multimodal Language Sequences [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/13)
-- 210813: A Survey of Uncertainty in Deep Neural Networks [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/18)
-- 210815: Uncertainty in Computer Vision(Papers) [issue](https://github.com/JisuHann/Deep-Learning-Repo/issues/19)
+- 210506: Objectron: A Large Scale Dataset of Object-Centric Videos in the wild with pose annotations [closed issue](https://github.com/JisuHann/One-day-One-paper/issues/2)
+- 210527: ViT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [pdf](https://github.com/JisuHann/One-day-One-paper/blob/main/R-CNN정리.pdf)
+- 210603: DALL-E: Zero-Shot Text-to-Image Generation [issue](https://github.com/JisuHann/One-day-One-paper/issues/5)
+- 210729: Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation [정리](https://github.com/JisuHann/One-day-One-paper/blob/main/Multi_source_unsupervised_domain_adaptation.md)
+- 210730: Incremental Few-Shot Instance Segmentation [issue](https://github.com/JisuHann/One-day-One-paper/issues/11)
+- 210803: BOP Challenge 2020 on 6D Object Localization [closed issue](https://github.com/JisuHann/One-day-One-paper/issues/12)
+- 210805: MLP-Mixer: An all-MLP Architecture for Vision [closed issue](https://github.com/JisuHann/One-day-One-paper/issues/6)
+- 210811: Pix2Pose: Pixel-Wise Coordinate Regression of Objects for 6D Pose Estimation [issue](https://github.com/JisuHann/One-day-One-paper/issues/14)
+- 210812: Multimodal Transformer for Unaligned Multimodal Language Sequences [issue](https://github.com/JisuHann/One-day-One-paper/issues/13)
+- 210813: A Survey of Uncertainty in Deep Neural Networks [issue](https://github.com/JisuHann/One-day-One-paper/issues/18)
+- 210815: Uncertainty in Computer Vision(Papers) [issue](https://github.com/JisuHann/One-day-One-paper/issues/19)
+- 210823: Bayesian Neural Network [issue](https://github.com/JisuHann/One-day-One-paper/issues/21)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
