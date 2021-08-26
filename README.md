@@ -18,7 +18,8 @@
 - 210813: A Survey of Uncertainty in Deep Neural Networks [issue](https://github.com/JisuHann/One-day-One-paper/issues/18)
 - 210815: Uncertainty in Computer Vision(Papers) [issue](https://github.com/JisuHann/One-day-One-paper/issues/19)
 - 210823: Bayesian Neural Network [issue](https://github.com/JisuHann/One-day-One-paper/issues/21)
-- 210824: Neural Process [issue](https://github.com/JisuHann/One-day-One-paper/issues/22)
+- 210826: MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning (ACL2020) [issue](https://github.com/JisuHann/One-day-One-paper/issues/15)
+- 210825-: Neural Process [issue](https://github.com/JisuHann/One-day-One-paper/issues/22)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
