@@ -20,6 +20,7 @@
 - 210823: Bayesian Neural Network [issue](https://github.com/JisuHann/One-day-One-paper/issues/21)
 - 210826: MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning (ACL2020) [issue](https://github.com/JisuHann/One-day-One-paper/issues/15)
 - 210825-: Neural Process [issue](https://github.com/JisuHann/One-day-One-paper/issues/22)
+- 211006: Generalization Through Hand-Eye Coordination: An Action Space for Learning Spatially-Invariant Visuomotor Control (https://github.com/JisuHann/One-day-One-paper/blob/main/HAN.pdf)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
@@ -58,5 +59,3 @@
   - Value Function Approximation: Linear Value Function Approximation, Neural Network(DQN), Batch Reinforcement Learning
   - REINFORCE, Policy Gradient, Actor Critic
 - Meta Learning
-
-### Code Implementation(Pytorch)
