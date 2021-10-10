@@ -22,3 +22,16 @@ optimizer_ft = optim.SGD(model_ft.parameters(), lr=0.001, momentum=0.9)
 # 7 에폭마다 0.1씩 학습률 감소
 exp_lr_scheduler = lr_scheduler.StepLR(optimizer_ft, step_size=7, gamma=0.1)
 ```
+- [reference](https://cs231n.github.io/transfer-learning/)
+## Transfer Learning scenarios
+1. ConvNet as feature extractor : take a ConvNet pretrained on ImageNet, remove the last fully-connected layer, then treat the rest of the ConvNet as a fixed feature extractor for the new dataset
+2. Fine-tuning the ConvNet: Not only replace and retrain the classifier on top of the ConvNet on the new dataset, but to **also fine-tune the weights of the pretrained network by continuing the backpropagation**
+3. Pretrained models: people release their final ConvNet checkpoints for the benefit of others who can use the networks for fine-tuning
+
+## When and how to fine-tune?
+1. New dataset is small and similar to original dataset: train a linear classifier on the CNN codes.
+2. New dataset is large and similar to the original dataset: try to fine-tune through the full network.
+3. New dataset is small but very different from the original dataset: it might work better to train the SVM classifier from activations somewhere earlier in the network.
+4. New dataset is large and very different from the original dataset: Since the dataset is very large, we may expect that we can afford to train a ConvNet from scratch. However, in practice it is very often still beneficial to initialize with weights from a pretrained model. In this case, we would have enough data and confidence to fine-tune through the entire network.
+
+## Practical advice (skip)
