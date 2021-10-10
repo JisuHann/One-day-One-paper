@@ -59,3 +59,5 @@
   - Value Function Approximation: Linear Value Function Approximation, Neural Network(DQN), Batch Reinforcement Learning
   - REINFORCE, Policy Gradient, Actor Critic
 - Meta Learning
+- Skils
+   - Transfer learning
