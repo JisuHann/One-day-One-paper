@@ -5,3 +5,8 @@
 - don't implement Bayesian inference directly
 - Equal point: the ability to extract prior knowledge directly from training data tied with scalability at test time
 - Bayesian approach - difficult to design appropriate priors and stochastic processes are computationally expensive
+
+# Convolutional Conditional Neural Process
+: a member of the NP family that models translation equivariance in the data
+- extend the thory of neural representations of sets to include **functional representation** 
+- NP(embed in finite dimensional vector space) vs. ConvCNP(embed into an infinite dimensional function space)
