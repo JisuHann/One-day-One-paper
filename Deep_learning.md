@@ -1,0 +1,8 @@
+- Supervised Learning
+  - train: (input, label), test: (input) and ask label
+- Self-supervised Learning
+  - train: (input) only
+- Weakly-supervised Learning
+- Unsupervised Learning 
+- Semi Supervised Learning
+- Meta-Learning
