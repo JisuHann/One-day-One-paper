@@ -23,6 +23,7 @@
 - 211006: Generalization Through Hand-Eye Coordination: An Action Space for Learning Spatially-Invariant Visuomotor Control [pdf](https://github.com/JisuHann/One-day-One-paper/blob/main/HAN.pdf)
 - 211012: SimSiam: Exploring Simple Siamese Representation Learning [md](https://github.com/JisuHann/One-day-One-paper/blob/main/SimSiam.md)
 - 211021: Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation [md](https://github.com/JisuHann/One-day-One-paper/blob/main/PCS.md)
+- 211031: Zero-shot instance segmentation [pdf](https://github.com/JisuHann/One-day-One-paper/blob/main/ZSI.pdf)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
