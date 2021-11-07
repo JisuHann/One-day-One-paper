@@ -26,6 +26,7 @@
 - 211031: Zero-shot instance segmentation [pdf](https://github.com/JisuHann/One-day-One-paper/blob/main/ZSI.pdf)
 - **211102-**: A Probabilistic U-Net for Segmentation of Ambiguous Images [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Probabilistic_U_Net.md)
 - 211103: 3D Attention-Driven Depth Acquisition for Object Identification [md](https://github.com/JisuHann/One-day-One-paper/blob/main/MV-RNN.md)
+- **211107-**: Domain Randomization [Issues](https://github.com/JisuHann/One-day-One-paper/issues/34)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
