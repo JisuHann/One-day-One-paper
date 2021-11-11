@@ -27,6 +27,7 @@
 - **211102-: A Probabilistic U-Net for Segmentation of Ambiguous Images [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Probabilistic_U_Net.md)** 
 - 211103: 3D Attention-Driven Depth Acquisition for Object Identification [md](https://github.com/JisuHann/One-day-One-paper/blob/main/MV-RNN.md)
 - **211107-: Domain Randomization [Issues](https://github.com/JisuHann/One-day-One-paper/issues/34)** 
+- 211111: Integrated Task and Motion Planning [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Integrated_task_and_motion_planning.md)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
