@@ -29,6 +29,7 @@
 - **211107-: Domain Randomization [Issues](https://github.com/JisuHann/One-day-One-paper/issues/34)** 
 - 211111-: Integrated Task and Motion Planning [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Integrated_task_and_motion_planning.md)
 - 211114: MQA: Answering the Question via Robotic Manipulation (RSS 2021) [md](https://github.com/JisuHann/One-day-One-paper/blob/main/MQA.md)
+- 211124: SOLO: A Simple Framework for Instance Segmentation(NeurIPS 2020) [md](https://github.com/JisuHann/One-day-One-paper/issues/36)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
