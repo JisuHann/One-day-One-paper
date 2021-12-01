@@ -32,6 +32,7 @@
 - 211124: SOLO: A Simple Framework for Instance Segmentation(NeurIPS 2020) [md](https://github.com/JisuHann/One-day-One-paper/issues/36)
 - 211123: Efficient learning of goal-oriented push-grasping synergy in clutter(RA-L2021) [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Efficient-learning-of-goal-oriented-push-grasping-synergy-in-clutter.md)
 - 211130: Reinforcement Learning of Active Vision for Manipulating Objects under Occlusions (CoRL2018) [md](https://github.com/JisuHann/One-day-One-paper/blob/main/ActiveVisionManipulation.md)
+- 211201: Set transformer [Issue](https://github.com/JisuHann/One-day-One-paper/issues/37)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
