@@ -35,6 +35,7 @@
 - **211201-: Set related papers: Deep sets, Set transformer etc.** [Issue](https://github.com/JisuHann/One-day-One-paper/issues/37)
 - 211203: Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [Issue](https://github.com/JisuHann/One-day-One-paper/issues/30)
 - **211211-: Transformer** [Issue](https://github.com/JisuHann/One-day-One-paper/issues/39)
+- 211219: Video Instance Segmentation Tracking with a Modified VAE Architecture [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Modified_VAE.md)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
