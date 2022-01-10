@@ -19,7 +19,7 @@
 - 210815: Uncertainty in Computer Vision(Papers) [issue](https://github.com/JisuHann/One-day-One-paper/issues/19)
 - 210823: Bayesian Neural Network [issue](https://github.com/JisuHann/One-day-One-paper/issues/21)
 - 210826: MART: Memory-Augmented Recurrent Transformer for Coherent Video Paragraph Captioning (ACL2020) [issue](https://github.com/JisuHann/One-day-One-paper/issues/15)
-- **210825-: Neural Process [issue](https://github.com/JisuHann/One-day-One-paper/issues/22)** 
+- 210825-: Neural Process [issue](https://github.com/JisuHann/One-day-One-paper/issues/22)
 - 211006: Generalization Through Hand-Eye Coordination: An Action Space for Learning Spatially-Invariant Visuomotor Control [pdf](https://github.com/JisuHann/One-day-One-paper/blob/main/HAN.pdf)
 - 211012: SimSiam: Exploring Simple Siamese Representation Learning [md](https://github.com/JisuHann/One-day-One-paper/blob/main/SimSiam.md)
 - 211021: Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation [md](https://github.com/JisuHann/One-day-One-paper/blob/main/PCS.md)
@@ -36,6 +36,7 @@
 - 211203: Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [Issue](https://github.com/JisuHann/One-day-One-paper/issues/30)
 - **211211-: Transformer** [Issue](https://github.com/JisuHann/One-day-One-paper/issues/39)
 - 211219: Video Instance Segmentation Tracking with a Modified VAE Architecture [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Modified_VAE.md)
+- 220110: Cascade R-CNN: Delving into High Quality Object Detection [md](https://github.com/JisuHann/One-day-One-paper/blob/main/cascade_R_CNN.md)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
