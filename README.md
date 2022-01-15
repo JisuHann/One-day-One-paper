@@ -32,13 +32,13 @@
 - 211124: SOLO: A Simple Framework for Instance Segmentation(NeurIPS 2020) [md](https://github.com/JisuHann/One-day-One-paper/issues/36)
 - 211123: Efficient learning of goal-oriented push-grasping synergy in clutter(RA-L2021) [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Efficient-learning-of-goal-oriented-push-grasping-synergy-in-clutter.md)
 - 211130: Reinforcement Learning of Active Vision for Manipulating Objects under Occlusions (CoRL2018) [md](https://github.com/JisuHann/One-day-One-paper/blob/main/ActiveVisionManipulation.md)
-- **211201-: Set related papers: Deep sets, Set transformer etc.** [Issue](https://github.com/JisuHann/One-day-One-paper/issues/37)
+- 211201-: Set related papers: Deep sets, Set transformer etc. [Issue](https://github.com/JisuHann/One-day-One-paper/issues/37)
 - 211203: Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [Issue](https://github.com/JisuHann/One-day-One-paper/issues/30)
 - **211211-: Transformer** [Issue](https://github.com/JisuHann/One-day-One-paper/issues/39)
 - 211219: Video Instance Segmentation Tracking with a Modified VAE Architecture [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Modified_VAE.md)
-- 220110: Cascade R-CNN: Delving into High Quality Object Detection [md](https://github.com/JisuHann/One-day-One-paper/blob/main/cascade_R_CNN.md)
+- 220110: Cascade R-CNN: Delving into High Quality Object Detection [md](https://github.com/JisuHann/One-day-One-paper/blob/main/cascade_R_CNN.md), [pdf]()
 - 220111: Hybrid Task Cascade for Instance Segmentation [paper](https://arxiv.org/pdf/1901.07518.pdf)
-- 220115: SNP: Sequential Neural Processes, ASNP: Attentive Sequential Neural Processes, RMR: Robustifying Sequential Neural Processes [md](https://github.com/JisuHann/One-day-One-paper/issues/22)
+- 220115: **SNP: Sequential Neural Processes, ASNP: Attentive Sequential Neural Processes, RMR: Robustifying Sequential Neural Processes** [md](https://github.com/JisuHann/One-day-One-paper/issues/22)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
