@@ -37,6 +37,8 @@
 - **211211-: Transformer** [Issue](https://github.com/JisuHann/One-day-One-paper/issues/39)
 - 211219: Video Instance Segmentation Tracking with a Modified VAE Architecture [md](https://github.com/JisuHann/One-day-One-paper/blob/main/Modified_VAE.md)
 - 220110: Cascade R-CNN: Delving into High Quality Object Detection [md](https://github.com/JisuHann/One-day-One-paper/blob/main/cascade_R_CNN.md)
+- 220111: Hybrid Task Cascade for Instance Segmentation [paper](https://arxiv.org/pdf/1901.07518.pdf)
+- 220115: SNP: Sequential Neural Processes, ASNP: Attentive Sequential Neural Processes, RMR: Robustifying Sequential Neural Processes [md](https://github.com/JisuHann/One-day-One-paper/issues/22)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
@@ -74,6 +76,8 @@
   - Model-Free Control: MC control, TD Control(SARSA, Q-Learning)
   - Value Function Approximation: Linear Value Function Approximation, Neural Network(DQN), Batch Reinforcement Learning
   - REINFORCE, Policy Gradient, Actor Critic
+- Methodology
+  - Neural Process: CNP, LNP, SNP, ASNP, RMR
 - Meta Learning
 - Skils
    - Transfer learning
