@@ -40,7 +40,8 @@
 - 220111: Hybrid Task Cascade for Instance Segmentation [paper](https://arxiv.org/pdf/1901.07518.pdf)
 - 220115: SNP: Sequential Neural Processes, ASNP: Attentive Sequential Neural Processes, RMR: Robustifying Sequential Neural Processes [md](https://github.com/JisuHann/One-day-One-paper/issues/22)
 - 2202-2203: Uncertainty estimation [issue](https://github.com/JisuHann/One-day-One-paper/issues/21)
-- 220328-: Pushing in clutter [issue](https://github.com/JisuHann/One-day-One-paper/issues/48)
+- **220328-: Pushing in clutter** [issue](https://github.com/JisuHann/One-day-One-paper/issues/48)
+- 220414: Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation [Issue](https://github.com/JisuHann/One-day-One-paper/issues/49)
 
 ### Theory Concept
 - Real Basics of Whole Deep Learning Networks
